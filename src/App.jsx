@@ -1,6 +1,7 @@
 import { Fragment } from "react";
 import "./App.css";
-import Header from "./componentes/header";
+import HEader from "./components/header";
+
 
 
 
@@ -10,7 +11,7 @@ function App() {
   return (
     <Fragment>
 
-    <Header/>
+    <HEader/>
 
 
 

@@ -1,9 +1,9 @@
 
 import {Routes, Route, NavLink} from "react-router-dom"
 import React, { Fragment } from 'react'
-import Footer from "./Footer"
+import Footer from "./Footer";
 
-function Header() {
+function HEader() {
     
     return (
         <Fragment>
@@ -101,4 +101,4 @@ function Header() {
 
 }
 
-export default Header
+export default HEader
